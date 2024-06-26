@@ -11,13 +11,20 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Hi, I am Aarya Shah You can find me through my Github or email me at shahaarya309@gmail.com.\nThis is an analysis between horsepower and average miles per gallon. Car Efficiency\nKane’s Free Data Science Bootcamp"
+    "text": "Hi, I am Aarya Shah You can find me through my Github or email me at shahaarya309@gmail.com.\nThis is an analysis between engine size, mpg, fuel type, and mileage. Car Efficiency\nKane’s Free Data Science Bootcamp"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Car Efficiency Data Analysis",
     "section": "",
-    "text": "Cars in 2024 have almost 4 times the efficiency of cars from 1970, but also come in new variants, such as electric and hybrid. he following data was pulled from the top-selling cars between 1970 and 2024. Then, the company’s data was used to compare the efficiency, mileage, and fuel type, and engine size of cars during this time. The average number of miles per gallon that cars could produce increased by about 5-10% a year from 1970 to 2011, but saw an increase of up to 300% from 2011 to 2024 due to the introduction of electric and hybrid cars."
+    "text": "The automotive industry has been one of the most steadily growing and expanding industries for over 100 years. Cars in 2024 have almost 4 times the efficiency of cars from 1970, but also come in new variants, such as electric and hybrid. he following data was pulled from the top-selling cars between 1970 and 2024. Then, the company’s data was used to compare the efficiency, mileage, and fuel type, and engine size of cars during this time. The average number of miles per gallon that cars could produce increased by about 5-10% a year from 1970 to 2011, but saw an increase of up to 300% from 2011 to 2024 due to the introduction of electric and hybrid cars.\n\n\n\n\n\n\n\n\n\nOne trend from this plot is that cars became extremely efficient after 2012, when electric cars became available to the market. These cars had 8 times the efficiency of traditional petrol/ gasoline cars as they could run without the need for gas (therefore the MPG = the range). However, hybrid cars took the best of both electric and gas cars, extending the range while reducing the amount of gas needed. Diesel vehicles have the lowest MPG as they burn fuel inefficiently (generally because of the size of such vehicles).\nAnother trend that was shown was a downward trend in buying used cars, which was especially evident after 2020. The size of the points represents the mileage when they were bought, and the size of points decreases dramatically between 2020 and 2024, showing that buying new cars was more common."
+  },
+  {
+    "objectID": "plot-2.html",
+    "href": "plot-2.html",
+    "title": "Plot 2",
+    "section": "",
+    "text": "This plot shows an upward trend in value of cars, but a dip in car prices between 1990 and 2000. However, this trend returned later, as car prices steadily increased."
   }
 ]
