@@ -4,7 +4,7 @@ author: "Aarya"
 format: html
 ---
 
-The automotive industry has been one of the most steadily growing and expanding industries for over 100 years. Cars in 2024 have almost 4 times the efficiency of cars from 1970, but also come in new variants, such as electric and hybrid. he following data was pulled from the top-selling cars between 1970 and 2024. Then, the company's data was used to compare the efficiency, mileage, and fuel type, and engine size of cars during this time. The average number of miles per gallon that cars could produce increased by about 5-10% a year from 1970 to 2011, but saw an increase of up to 300% from 2011 to 2024 due to the introduction of electric and hybrid cars. 
+The automotive industry has been one of the most steadily growing and expanding industries for over 100 years. Cars in 2024 have almost 4 times the efficiency of cars from 1970, but also come in new variants, such as electric and hybrid. The following data was pulled from the top-selling cars between 1970 and 2024. Then, the company's data was used to compare the efficiency, mileage, fuel type, and engine size of cars during this time. The average number of miles per gallon that cars could produce increased by about 5-10% a year from 1970 to 2011, but saw an increase of up to 300% from 2011 to 2024 due to the introduction of electric and hybrid cars. 
 
 ```{r}
 #| message: false
